@@ -1,0 +1,5 @@
+"D:\Program Files\JetBrains\CLion\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=D:/Program Files/JetBrains/CLion/bin/ninja/win/ninja.exe" -G Ninja -S E:\CLionProjects\Demo_111 -B E:\CLionProjects\Demo_111\cmake-build-debug
+-- Minimal optimization, debug info included
+-- Configuring done
+-- Generating done
+-- Build files have been written to: E:/CLionProjects/Demo_111/cmake-build-debug
